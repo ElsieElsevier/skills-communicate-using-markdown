@@ -18,4 +18,6 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 var myVar = "Hello, world!";
 ```
 
-
+- [x] List syntax is required
+- [x] This list is complete
+- [ ] This list is not complete
