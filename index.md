@@ -6,3 +6,6 @@
 ###### This is the sixth and last header
 
 Learning how to use Markdowns
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
